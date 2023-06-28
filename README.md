@@ -1,10 +1,14 @@
 
-### Olá! Eu sou a Veronica Bierhals 🙋‍♀️
+### Olá! Sou a Veronica Bierhals 🙋‍♀️
+<br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicaveigabierhals/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicaveigabierhals/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com) <br/>
+<br/>
 
-![Veronica Bierhals GitHub stats](https://github-readme-stats.vercel.app/api?username=veronicabierhals&show_icons=true&theme=dracula)
+![Veronica Bierhals GitHub stats](https://github-readme-stats.vercel.app/api?username=veronicabierhals&show_icons=true&theme=dracula) <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronicabierhals&hide=javascript,html)<br/>
+<br/>
 ### Aprenderei na faculdade de ADS
 
 <div style="display: inline_block"><br/>
@@ -21,6 +25,7 @@
  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
  </div><br/>
+<br/>
 
 Designer gráfico e editorial há dois anos. <br/>
 Este ano comecei a estudar UX/UI e acabei me apaixonando por programação. <br/>
