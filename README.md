@@ -34,7 +34,9 @@
  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
  </div><br/>
-<br/>
+
+[O que estou aprendendo](https://github.com/veronicabierhals/adsuninter/blob/main/aprendendo%20na%20Faculdade.md) <br/>
+[Grade Currícular da Faculdade](https://github.com/veronicabierhals/adsuninter/blob/main/gradecurricular.md) <br/>
 
 Designer gráfico e editorial há dois anos. <br/>
 Este ano comecei a estudar UX/UI e acabei me apaixonando por programação. <br/>
