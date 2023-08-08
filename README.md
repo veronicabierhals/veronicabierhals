@@ -2,7 +2,7 @@
 ### Olá! Sou a Veronica Bierhals 🙋‍♀️
 <br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicaveigabierhals/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com) <br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](colocar o outro aqui) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com) <br/>
 <br/>
 
 ![Veronica Bierhals GitHub stats](https://github-readme-stats.vercel.app/api?username=veronicabierhals&show_icons=true&theme=dracula) <br/>
