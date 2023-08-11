@@ -1,10 +1,18 @@
 
 ### Olá! Sou a Veronica Bierhals 🙋‍♀️
 <br/>
+Desenvolvedora BackEnd Jr. | Designer gráfico e editorial | UX/UI <br/><br/>
+Cursando: <br/>
+Análise e Desenvolvimento de Sistemas na Uninter.<br/>
+Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/><br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com) <br/>
+
+
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicabierhals/)<br/>
 <br/>
-
 ![Veronica Bierhals GitHub stats](https://github-readme-stats.vercel.app/api?username=veronicabierhals&show_icons=true&theme=dracula) <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronicabierhals&hide=javascript,html)<br/>
@@ -37,7 +45,3 @@
 
 [O que estou aprendendo](https://github.com/veronicabierhals/adsuninter/blob/main/aprendendo%20na%20Faculdade.md) <br/>
 [Grade Currícular da Faculdade](https://github.com/veronicabierhals/adsuninter/blob/main/gradecurricular.md) <br/>
-
-Designer gráfico e editorial há dois anos. <br/>
-Este ano comecei a estudar UX/UI e acabei me apaixonando por programação. <br/>
-Estou cursando Análise e Desenvolvimento de Sistemas e quero me especializar em back end.
