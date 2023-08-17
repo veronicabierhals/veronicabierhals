@@ -1,10 +1,11 @@
 
 ### Olá! Sou a Veronica Bierhals 🙋‍♀️
 <br/>
-Desenvolvedora BackEnd Jr. | Designer gráfico e editorial | UX/UI <br/><br/>
+Desenvolvedora BackEnd Jr. | JavaScript | Java | Python | Designer gráfico e editorial | UX/UI <br/><br/>
 Cursando: <br/>
 Análise e Desenvolvimento de Sistemas na Uninter.<br/>
-Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/><br/>
+Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/>
+Bootcamp Java na DIO<br/><br/>
 
 
 
@@ -44,5 +45,5 @@ Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/><br/>
  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
  </div><br/>
 
-[O que estou aprendendo](https://github.com/veronicabierhals/adsuninter/blob/main/aprendendo%20na%20Faculdade.md) <br/>
+[O que estou aprendendo na faculdade](https://github.com/veronicabierhals/adsuninter/blob/main/aprendendo%20na%20Faculdade.md) <br/>
 [Grade Currícular da Faculdade](https://github.com/veronicabierhals/adsuninter/blob/main/gradecurricular.md) <br/>
