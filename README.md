@@ -4,7 +4,7 @@ Desenvolvedora BackEnd Jr. | JavaScript | Java | Python | Designer gráfico e ed
 ## Cursando: <br/>
 Análise e Desenvolvimento de Sistemas na Uninter.<br/>
 Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/>
-Bootcamp Java na DIO<br/><br/>
+Santander Bootcamp Java na DIO<br/><br/>
 
 
 
