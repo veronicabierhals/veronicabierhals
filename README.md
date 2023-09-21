@@ -1,5 +1,5 @@
 # Olá! Sou a Veronica Bierhals 🙋‍♀️
-Desenvolvedora BackEnd Jr. | JavaScript | Java | Python | Designer gráfico e editorial | UX/UI <br/><br/>
+Desenvolvedora BackEnd | JavaScript | Java | Python | Designer gráfico e editorial | UX/UI <br/><br/>
 
 ## Cursando: <br/>
 Análise e Desenvolvimento de Sistemas na Uninter.<br/>
