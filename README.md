@@ -7,15 +7,14 @@ Análise e Desenvolvimento de Sistemas na Uninter.<br/>
 Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/>
 Santander Bootcamp Java na DIO<br/><br/>
 
-📚 Acredito no lifelong learnig<br/>
-Sou autodidata e, na maioria das vezes, viso resolver meus códigos de forma autônoma com ajuda de tecnologias como ChatGPT, pois sei que nem sempre terá alguém para me acompanhar de perto.<br/>
-Trabalho bem em equipe, porém também sou independente em projetos que participo, mantendo organização e prazos.<br/>
+📚Acredito no conceito de lifelong learning, e estou sempre buscando oportunidades de aprendizado contínuo.<br/>
+Atualmente, estou investindo no aprimoramento do meu inglês.<br/>
+Sou autodidata, e estou acostumada a resolver desafios de programação de forma independente, fazendo uso de recursos como ChatGPT para me auxiliar na solução de problemas técnicos.<br/>
+Tenho facilidade em trabalhar em equipe, valorizando a colaboração e o compartilhamento de conhecimento. Ao mesmo tempo, preso por autonomia, mantendo-me organizada e cumprindo prazos.<br/><br/>
 
-👩‍💻 Sou designer gráfico em transição de carreira.<br/>
-Meu objetivo é seguir no backend e ingressar no mercado de tecnologia até janeiro de 2023.<br/>
-No próximo ano, além da faculdade, focarei meus estudos em inglês (no qual tenho uma noção), certificações da área de tecnologia e outros cursos.<br/>
+👩‍💻 Estou em transição de carreira e estabeleci o objetivo de ingressar no mercado de tecnologia até janeiro de 2023, com foco no desenvolvimento backend.<br/>
+Após concluir o curso de Análise e Desenvolvimento de Sistemas em dezembro de 2025, planejo dar continuidade à minha formação acadêmica e profissional, iniciando a graduação em Engenharia de Software.<br/><br/>
 
-Ao concluir Análise e Desenvolvimento de Sistemas, em dezembro de 2025, iniciarei Engenharia de Software.<br/><br/>
 
 ### Meus contatos <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com)
@@ -26,12 +25,15 @@ Ao concluir Análise e Desenvolvimento de Sistemas, em dezembro de 2025, iniciar
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![NODEJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
+![Postgres](https://img.shields.io/badge/Postgres-000?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge)
 <br/><br/>
 ## Softwares
 <div style="display: inline_block">
