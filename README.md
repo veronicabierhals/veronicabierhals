@@ -1,5 +1,5 @@
 # Olá! Sou Veronica Bierhals 👋
-Desenvolvedora BackEnd | JavaScript | Node.js | Java | Python | Git | GitHub | Designer gráfico | UX/UI <br/><br/>
+Desenvolvedora BackEnd | JavaScript | Node.js | Express | SQL | Python <br/><br/>
 
 ### 🎓 Cursando <br/>
 Análise e Desenvolvimento de Sistemas na Uninter.<br/>
