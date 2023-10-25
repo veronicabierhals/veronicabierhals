@@ -7,13 +7,16 @@ Análise e Desenvolvimento de Sistemas na Uninter.<br/>
 Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/>
 Santander Bootcamp Java na DIO<br/><br/>
 
-📚Acredito no conceito de lifelong learning, e estou sempre buscando oportunidades de aprendizado contínuo.<br/>
-Atualmente, estou investindo no aprimoramento do meu inglês.<br/>
-Sou autodidata, e estou acostumada a resolver desafios de programação de forma independente, fazendo uso de recursos como ChatGPT para me auxiliar na solução de problemas técnicos.<br/>
-Tenho facilidade em trabalhar em equipe, valorizando a colaboração e o compartilhamento de conhecimento. Ao mesmo tempo, preso por autonomia, mantendo-me organizada e cumprindo prazos.<br/><br/>
+Sou autodidata, e estou acostumada a resolver desafios de programação de forma independente, fazendo uso de recursos como ChatGPT para me auxiliar na solução de problemas técnicos.
 
-👩‍💻 Estou em transição de carreira e estabeleci o objetivo de ingressar no mercado de tecnologia até janeiro de 2023, com foco no desenvolvimento backend.<br/>
-Após concluir o curso de Análise e Desenvolvimento de Sistemas em dezembro de 2025, planejo dar continuidade à minha formação acadêmica e profissional, iniciando a graduação em Engenharia de Software.<br/><br/>
+Tenho facilidade em trabalhar em equipe, valorizando a colaboração e o compartilhamento de conhecimento. 
+Ao mesmo tempo, preso por autonomia, mantendo-me organizada e cumprindo prazos.
+
+Estou em transição de carreira com foco no desenvolvimento de software backend e disposta a iniciar uma nova jornada.
+
+Tenho disponibilidade para morar em Florianópolis/SC ou Balneário Camboriú/SC.
+
+Após concluir o curso de Análise e Desenvolvimento de Sistemas (dezembro de 2025), planejo dar continuidade à formação acadêmica e profissional, iniciando a graduação em Engenharia de Software.
 
 
 ### Meus contatos <br/>
