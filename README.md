@@ -3,9 +3,8 @@ Desenvolvedora BackEnd | JavaScript | Node.js | Express | SQL | Python <br/><br/
 
 ### 🎓 Cursando <br/>
 Análise e Desenvolvimento de Sistemas na Uninter.<br/>
-### 🎓 Bolsista nos cursos <br/>
+### 🎓 Bolsista no curso <br/>
 Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/>
-Santander Bootcamp Java na DIO<br/><br/>
 
 Sou autodidata, e estou acostumada a resolver desafios de programação de forma independente, fazendo uso de recursos como ChatGPT para me auxiliar na solução de problemas técnicos.
 
