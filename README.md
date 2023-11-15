@@ -1,5 +1,5 @@
 # Olá! Sou Veronica Bierhals 👋
-Desenvolvedora BackEnd | JavaScript | Node.js | Express | SQL | Python <br/><br/>
+Desenvolvedora BackEnd | JavaScript | Node.js | Express | PostgreSQL | Python <br/><br/>
 
 ### 🎓 Cursando <br/>
 Análise e Desenvolvimento de Sistemas na Uninter.<br/>
