@@ -6,14 +6,18 @@ Análise e Desenvolvimento de Sistemas na Uninter.<br/>
 ### 🎓 Bolsista no curso <br/>
 Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/>
 
-Sou autodidata, e estou acostumada a resolver desafios de programação de forma independente, fazendo uso de recursos como ChatGPT para me auxiliar na solução de problemas técnicos.
+Tenho conhecimento em JavaScript, Node.js, Express, PostgreSQL, API Rest, Python, Git e GitHub.
+
+Atualmente, investindo no aprimoramento do meu inglês.
+
+Sou autodidata e tenho capacidade de aprender rápido.
 
 Tenho facilidade em trabalhar em equipe, valorizando a colaboração e o compartilhamento de conhecimento. 
 Ao mesmo tempo, preso por autonomia, mantendo-me organizada e cumprindo prazos.
 
-Estou em transição de carreira com foco no desenvolvimento de software backend e disposta a iniciar uma nova jornada.
+Sou designer gráfico em transição de carreira com foco no desenvolvimento de software backend e disposta a iniciar uma nova jornada.
 
-Tenho disponibilidade para morar em Florianópolis/SC ou Balneário Camboriú/SC.
+Tenho disponibilidade para morar em Porto Alegre/RS, Florianópolis/SC, Balneário Camboriú/SC.
 
 Após concluir o curso de Análise e Desenvolvimento de Sistemas (dezembro de 2025), planejo dar continuidade à formação acadêmica e profissional, iniciando a graduação em Engenharia de Software.
 
