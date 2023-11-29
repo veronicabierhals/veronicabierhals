@@ -1,16 +1,13 @@
 # Olá! Sou Veronica Bierhals 👋
 Desenvolvedora BackEnd | JavaScript | Node.js | Express | PostgreSQL | Python <br/><br/>
 
-### 🎓 Cursando <br/>
-Análise e Desenvolvimento de Sistemas na Uninter.<br/>
-### 🎓 Bolsista no curso <br/>
-Desenvolvimento de Software BackEnd JavaScript na Cubos Academy.<br/>
+🎓 **Cursando** Análise e Desenvolvimento de Sistemas na Uninter.<br/>
+🎓 **Bolsista no curso** Desenvolvimento de Software BackEnd JavaScript com Node.js na Cubos Academy.<br/>
 
-Tenho conhecimento em JavaScript, Node.js, Express, PostgreSQL, API Rest, Python, Git e GitHub.
-
-Atualmente, investindo no aprimoramento do meu inglês.
 
 Sou autodidata e tenho capacidade de aprender rápido.
+
+Estou investindo no aprimoramento do meu inglês.
 
 Tenho facilidade em trabalhar em equipe, valorizando a colaboração e o compartilhamento de conhecimento. 
 Ao mesmo tempo, preso por autonomia, mantendo-me organizada e cumprindo prazos.
@@ -19,7 +16,7 @@ Sou designer gráfico em transição de carreira com foco no desenvolvimento de 
 
 Tenho disponibilidade para morar em Porto Alegre/RS, Florianópolis/SC, Balneário Camboriú/SC.
 
-Após concluir o curso de Análise e Desenvolvimento de Sistemas (dezembro de 2025), planejo dar continuidade à formação acadêmica e profissional, iniciando a graduação em Engenharia de Software.
+Após concluir o curso de Análise e Desenvolvimento de Sistemas (dezembro de 2025), planejo dar continuidade à formação acadêmica e profissional, iniciando uma graduação ou mestrado em Engenharia de Software.
 
 
 ### Meus contatos <br/>
@@ -46,24 +43,20 @@ Após concluir o curso de Análise e Desenvolvimento de Sistemas (dezembro de 20
  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
  <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue"/>
  <img align="center" alt="Ilustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-000?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)"/> 
- <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <br/><br/>
- 
-## Próximas tecnologias
-<div style="display: inline_block">
-<img align="center" alt="dart" src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=white"/>
-<img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img align="center" alt="spring" src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=white"/>
-<img align="center" alt="android" src="https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=white"/>
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="angular" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F"/>
-
- </div><br/>
-
- <br/>
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=veronicabierhals&theme=violet-punch&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veronicabierhals&theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=242FDB&title_color=DB1C5E&text_color=ACC6DB) 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=veronicabierhals&bg_color=000&border_color=30A3DC&title_color=DB1C5E&text_color=FFF)<br/>
 <br/>
+
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/veronicabierhals/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
