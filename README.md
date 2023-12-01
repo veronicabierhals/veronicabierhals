@@ -10,13 +10,13 @@ Sou autodidata e tenho capacidade de aprender rápido.
 Estou investindo no aprimoramento do meu inglês.
 
 Tenho facilidade em trabalhar em equipe, valorizando a colaboração e o compartilhamento de conhecimento. 
-Ao mesmo tempo, preso por autonomia, mantendo-me organizada e cumprindo prazos.
+Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
 
 Sou designer gráfico em transição de carreira com foco no desenvolvimento de software backend e disposta a iniciar uma nova jornada.
 
 Tenho disponibilidade para morar em Porto Alegre/RS, Florianópolis/SC, Balneário Camboriú/SC.
 
-Após concluir o curso de Análise e Desenvolvimento de Sistemas (dezembro de 2025), planejo dar continuidade à formação acadêmica e profissional, iniciando uma graduação ou mestrado em Engenharia de Software.
+Após concluir o curso de Análise e Desenvolvimento de Sistemas em dezembro de 2025, pretendo dar continuidade à minha formação acadêmica e profissional, considerando a possibilidade de ingressar em uma graduação ou mestrado em Engenharia de Software. 
 
 
 ### Meus contatos <br/>
