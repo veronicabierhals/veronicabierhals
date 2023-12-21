@@ -2,7 +2,6 @@
 Desenvolvedora BackEnd | JavaScript | Node.js | Express | PostgreSQL | Python <br/><br/>
 
 🎓 **Cursando** Análise e Desenvolvimento de Sistemas na Uninter.<br/>
-🎓 **Bolsista no curso** Desenvolvimento de Software BackEnd JavaScript com Node.js na Cubos Academy.<br/>
 
 Sou autodidata e tenho capacidade de aprender rápido.
 
