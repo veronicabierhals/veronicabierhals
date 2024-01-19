@@ -48,10 +48,3 @@ Em 2026 planejo fazer um mestrado em Ciência da Computação na UFSC e já esto
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=veronicabierhals&bg_color=000&border_color=30A3DC&title_color=DB1C5E&text_color=FFF)<br/>
 <br/>
 </div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/veronicabierhals/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
