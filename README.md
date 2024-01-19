@@ -3,16 +3,18 @@ Desenvolvedora BackEnd | JavaScript | Node.js | Express | PostgreSQL | Python <b
 
 🎓 **Cursando** Análise e Desenvolvimento de Sistemas na Uninter.<br/>
 
-Sou autodidata e tenho capacidade de aprender rápido.
+Este ano estou estudando Ciência de Dados e inglês por conta.
 
-Tenho facilidade em trabalhar em equipe, valorizando a colaboração e o compartilhamento de conhecimento. 
+Tenho capacidade de aprender rápido.
+Facilidade de trabalhar em equipe, valorizando a colaboração e o compartilhamento de conhecimento. 
 Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
 
-Sou designer gráfico em transição de carreira com foco no desenvolvimento de software backend.
+Designer gráfico em transição de carreira.
+Interesse em desenvolvimento de software backend, ciência de dados, machine learning e big data.
 
 Tenho disponibilidade para morar em Porto Alegre/RS, Florianópolis/SC, Balneário Camboriú/SC, Joinville/SC.
 
-Em 2026 planejo dar continuidade à formação acadêmica e profissional por meio de um mestrado.
+Em 2026 planejo fazer um mestrado em Ciência da Computação na UFSC e já estou me preparando para isso.
 
 
 ### Meus contatos <br/>
@@ -45,9 +47,6 @@ Em 2026 planejo dar continuidade à formação acadêmica e profissional por mei
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veronicabierhals&theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=242FDB&title_color=DB1C5E&text_color=ACC6DB) 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=veronicabierhals&bg_color=000&border_color=30A3DC&title_color=DB1C5E&text_color=FFF)<br/>
 <br/>
-
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
 </div>
 
 <p align="center">
