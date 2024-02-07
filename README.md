@@ -3,19 +3,19 @@ Desenvolvedora BackEnd | JavaScript | Node.js | Express | PostgreSQL | Python <b
 
 🎓 **Cursando** Análise e Desenvolvimento de Sistemas na Uninter.<br/>
 
-Este ano estou estudando Ciência de Dados e inglês por conta.
+Concluí, entre agosto e dezembro de 2023, um curso intensivo de 500 horas em Desenvolvimento de Software Backend com Node.js, estabelecendo uma base sólida para novos desafios.
 
-Tenho capacidade de aprender rápido.
-Facilidade de trabalhar em equipe, valorizando a colaboração e o compartilhamento de conhecimento. 
-Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
+Tenho conhecimento em JavaScript, Node.js, Express, PostgreSQL, API Rest, Python, HTML, CSS, Git e GitHub.
 
-Designer gráfico em transição de carreira.
-Interesse em desenvolvimento de software backend, ciência de dados, machine learning e big data.
+Minha meta é ampliar minha expertise em Ciência de Dados, investindo em estudos autodidatas e aprimorando meu inglês. Planejo participar ativamente de projetos extracurriculares, como monitoria e iniciação científica, durante a faculdade, visando uma Pós-Graduação em Ciência de Dados e Machine Learning, seguida por um Mestrado em Ciência da Computação na UFSC, programado para 2026 a 2028.
 
-Tenho disponibilidade para morar em Porto Alegre/RS, Florianópolis/SC, Balneário Camboriú/SC, Joinville/SC.
+Destaco minha capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorização da colaboração e compartilhamento de conhecimento. Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
 
-Em 2026 planejo fazer um mestrado em Ciência da Computação na UFSC e já estou me preparando para isso.
+Designer gráfico em transição de carreira, meu objetivo profissional é integrar projetos relacionados à Ciência de Dados.
 
+Interessada pelas áreas de pesquisa científica em aprendizado de máquina, inteligência artificial, big data e inteligência computacional.
+
+Disponível para morar em Porto Alegre/RS, Florianópolis/SC, Balneário Camboriú/SC, Joinville/SC.
 
 ### Meus contatos <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com)
