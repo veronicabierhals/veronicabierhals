@@ -2,33 +2,32 @@ body {
     margin: 0;
     background-color: #19334B;
     font-family: 'Ubuntu Mono', monospace;
-}
-
-p,
-h3,
-form {
     color: #C0E2EA;
 }
 
 p {
+    font-size: 18px;
     line-height: 1.5;
+    margin-bottom: 30px;
 }
 
 h2 {
     color: #F2D8C2;
     font-size: 40px;
     font-weight: bold;
+    margin-bottom: 40px;
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 26px;
     font-weight: bold;
+    margin-bottom: 10px;
 }
 
 header,
 footer {
     background-color: #453A74;
-    height: 100px;
+    height: 80px;
     width: 100%;
     margin: 0 auto;
 }
@@ -42,7 +41,7 @@ footer {
 nav {
     display: flex;
     align-items: center;
-    padding-top: 30px;
+    padding-top: 20px;
     font-size: 22px;
     font-weight: bold;
 }
@@ -78,39 +77,13 @@ nav a {
     height: auto;
 }
 
-#sobremim.container {
+#sobremim.container,
+#formacao.container,
+#tecnologias.container,
+#portfolio.container,
+#contato.container {
     flex-direction: column;
-    gap: 40px;
-    padding-top: 100px;
-}
-
-#formacao.container {
-    flex-direction: column;
-    padding-top: 100px;
-}
-
-#formacao.container h2 {
-    margin-bottom: 40px;
-}
-
-#formacao.container h3 {
-    margin-bottom: 10px;
-}
-
-#formacao.container p {
-    margin-bottom: 30px;
-}
-
-#tecnologias.container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding-top: 100px;
-    text-decoration: none;
-}
-
-#tecnologias.container h2 {
-    margin-bottom: 40px;
+    padding-top: 60px;
 }
 
 #tecnologias.container .lista-tecnologias {
@@ -135,4 +108,79 @@ nav a {
 #tecnologias.container .icone img {
     max-width: 155px;
     max-height: 55px;
+    padding: 2px;
+}
+
+#portfolio.container div {
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+}
+
+#portfolio.container article {
+    width: 30%;
+}
+
+#portfolio.container article a {
+    color: #5a71d7;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#portfolio.container article a:hover {
+    color: #F2D8C2;
+}
+
+#contato.container form {
+    display: flex;
+    flex-direction: column;
+}
+
+#contato.container label {
+    margin-bottom: 10px;
+}
+
+#contato.container input[type="text"],
+#contato.container input[type="email"],
+#contato.container textarea {
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#contato.container button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 250px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#contato.container button[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+footer p {
+    margin: 0;
+    padding-top: 24px;
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+    padding-top: 22px;
 }

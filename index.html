@@ -22,7 +22,7 @@
         </div>
         <div class="alinhamento-dir">
             <ul>
-            <li><a href="url-do-link"><img src="img/iconemail.png" alt="icone email" /></a></li>
+            <li><a href="mailto:veronicabierhals1@gmail.com?subject=&body="><img src="img/iconemail.png" alt="icone email" /></a></li>
             <li><a href="https://github.com/veronicabierhals"><img src="img/icongithub.png" alt="icone github" /></a></li>
             <li><a href="https://www.linkedin.com/in/veronicabierhals/"></a><img src="img/iconlinkedin.png" alt="icone linkedin" /></a></li>
             </ul>
@@ -62,45 +62,36 @@
             <div class="icone"><img src="img/iconai.png" alt="icone ilustrator" /></div>
         </div>
     </section>
-    <section class="container">
-        <article>
-            <h2 id="portfolio">Portfólio</h2>
-            <h3>Projeto 1</h3>
-            <p>breve descrição </p>
-            <a href="link repositorio"></a>
-        </article>
-        <article>
-            <h3>Projeto 2</h3>
-            <p>breve descrição </p>
-            <a href="link repositorio"></a>
-        </article>
-        <article>
-            <h3>Projeto 3</h3>
-            <p>breve descrição </p>
-            <a href="link repositorio"></a>
-        </article>
+    <section id="portfolio" class="container">
+            <h2 >Portfólio</h2>
+            <div>
+                <article>
+                    <h3>
+                        API Ponto de Venda</h3>
+                    <p>Projetada para simplificar operações de PDV. Desde o cadastro de usuários até o gerenciamento de perfil, nossa API oferece uma série de recursos essenciais. <br> Tecnologias utilizadas: node.js, Express (v4.18.2), PostgreSQL (pg v8.11.3), BCrypt (v5.1.1), JSON Web Token (JWT v9.0.2), Dotenv (v16.3.1), Cors (v2.8.5), Joi (v17.11.0), AWS SDK (v2.1516.0), Multer (v1.4.5-lts.1), Nodemailer (v6.9.7), Knex (v3.0.1), ElephantSQL para armazenamento de dados. </p>
+                    <a href="https://github.com/veronicabierhals/Projeto-de-Ponto-De-Venda-PDV-">Repositório no GitHub</a>
+                </article>
+                <article>
+                    <h3>
+                        API de controle financeiro</h3>
+                    <p>A API oferece funcionalidades incluindo cadastro e autenticação de usuários, gerenciamento de categorias, registro de transações financeiras (entradas e saídas) e a obtenção de extrato financeiro. <br>
+                       Tecnologias Utilizadas: Node.js, Express.js, PostgreSQL (banco de dados), Bcrypt (para criptografia de senhas), JSON Web Token (JWT - para autenticação via token), dotenv (Para configuração de variáveis de ambiente), Insomnia (para testes).
+                        </p>
+                    <a href="https://github.com/veronicabierhals/apiControleFinanceiro">Repositório no GitHub</a>
+                </article>
+                <article>
+                    <h3>
+                        Mini Rede Social</h3>
+                    <p>Projeto de API simples inspirado no Instagram, onde os usuários podem:  realizar postagens,
+ curtir postagens, comentar e muito mais. <br> Tecnologias Utilizadas: Node.js, Express e PostgreSQL.</p>
+                    <a href="https://github.com/veronicabierhals/Projeto-Mini-Rede-Social">Repositório no GitHub</a>
+                </article>
+            </div>
     </section>
-    <section class="container">
-        <h2 id="portfolio">Portfólio</h2>
-        <article>
-          <h3>Projeto 1</h3>
-          <p>breve descrição </p>
-          <a href="link repositorio"></a>
-        </article>
-        <article>
-          <h3>Projeto 2</h3>
-          <p>breve descrição </p>
-          <a href="link repositorio"></a>
-        </article>
-        <article>
-          <h3>Projeto 3</h3>
-          <p>breve descrição </p>
-          <a href="link repositorio"></a>
-        </article>
-    </section>
-    <section class="container">
-        <h2 id="contato">Entre em Contato</h2>
-        <form action="processar-formulario.php" method="POST">
+    <section id="contato" class="container">
+        <h2>Entre em Contato</h2>
+        <div>
+            <form action="processar-formulario.php" method="POST">
             <label for="nome">Nome:</label>
             <input type="text" id="nome" name="nome" required>
             <br>
@@ -112,14 +103,22 @@
             <br>
             <button type="submit">Enviar</button>
         </form>
+    </div>
       </section>
-      <footer class="container">
-        <p>Desenvolvido por Veronica Veiga Bierhals, Todos os Direitos Reservados &copy</p>
-        <ul >
-        <li><a href="url-do-link"><img src="img/iconemail.png" alt="icone email" /></a></li>
-        <li><a href="https://github.com/veronicabierhals"><img src="img/icongithub.png" alt="icone github" /></a></li>
-        <li><a href="https://www.linkedin.com/in/veronicabierhals/"></a><img src="img/iconlinkedin.png" alt="icone linkedin" /></a></li>
-      </ul>
+      <footer>
+        <div class="container">
+            <div>
+                <p>Desenvolvido por Veronica Veiga Bierhals. Todos os Direitos Reservados &copy</p>
+            </div>
+            <div class="alinhamento-dir">
+                <ul>
+                    <li><a href="mailto:veronicabierhals1@gmail.com?subject=&body="><img src="img/iconemail.png" alt="icone email" /></a></li>
+                    <li><a href="https://github.com/veronicabierhals"><img src="img/icongithub.png" alt="icone github" /></a></li>
+                    <li><a href="https://www.linkedin.com/in/veronicabierhals/"></a><img src="img/iconlinkedin.png" alt="icone linkedin" /></a></li>
+                </ul>
+            </div>
+        </div>
+
     </footer>
   </body>
 </html>
