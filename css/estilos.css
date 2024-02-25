@@ -24,6 +24,10 @@ h3 {
     margin-bottom: 10px;
 }
 
+img {
+    border-radius: 10px;
+}
+
 header,
 footer {
     background-color: #453A74;
