@@ -3,31 +3,38 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/estilos.css">
+
     <title>Veronica Bierhals</title>
   </head>
   <body>
     <header>
-      <nav>
-        <ul>
-          <li><a href="#sobremim">Sobre Mim</a></li>
-          <li><a href="#formacao">Formação</a></li>
-          <li><a href="#tecnologias">Tecnologias</a></li>
-          <li><a href="#portfolio">Portfólio</a></li>
-          <li><a href="#blog">Blog</a></li>
-        </ul>
-        <ul>
-          <li><a href="url-do-link"><img src="img/iconemail.png" alt="icone email" /></a></li>
-          <li><a href="https://github.com/veronicabierhals"><img src="img/icongithub.png" alt="icone github" /></a></li>
-          <li><a href="https://www.linkedin.com/in/veronicabierhals/"></a><img src="img/iconlinkedin.png" alt="icone linkedin" /></a></li>
-        </ul>
+      <nav class="container">
+        <div class="alinhamento-esq">
+            <ul>
+            <li><a href="#sobremim">Sobre Mim</a></li>
+            <li><a href="#formacao">Formação</a></li>
+            <li><a href="#tecnologias">Tecnologias</a></li>
+            <li><a href="#portfolio">Portfólio</a></li>
+            <li><a href="#blog">Blog</a></li>
+          </ul>
+        </div>
+        <div class="alinhamento-dir">
+            <ul>
+            <li><a href="url-do-link"><img src="img/iconemail.png" alt="icone email" /></a></li>
+            <li><a href="https://github.com/veronicabierhals"><img src="img/icongithub.png" alt="icone github" /></a></li>
+            <li><a href="https://www.linkedin.com/in/veronicabierhals/"></a><img src="img/iconlinkedin.png" alt="icone linkedin" /></a></li>
+            </ul>
+        </div>
       </nav>
     </header>
-    <section>
-        <h2 id="sobremim">Sobre Mim</h2>
+    <section id="sobremim" class="container">
+        <h2>Veronica Veiga Bierhals</h2>
         <p>Estudante de Análise e Desenvolvimento de Sistemas pela Uninter. <br>Concluí, entre agosto e dezembro de 2023, um curso intensivo de 500 horas em Desenvolvimento de Software Backend com Node.js, estabelecendo uma base sólida para novos desafios. <br>Tenho conhecimento em JavaScript, Node.js, Express, PostgreSQL, API Rest, Python, HTML, CSS, Git e GitHub. <br>Este ano estou focando meus estudos em Ciência de Dados e aprimorando meu inglês.<br> Planejo participar ativamente de projetos extracurriculares, como monitoria e iniciação científica, durante a faculdade.<br>Em 2025 farei Pós-Graduação em Ciência de Dados e Machine Learning, seguida pelo Mestrado em Ciência da Computação na UFSC, programado para 2026 a 2028.<br>Destaco minha capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorização da colaboração e compartilhamento de conhecimento. <br>Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.<br>Designer gráfico em transição de carreira, meu objetivo profissional é integrar projetos relacionados à Backend e Ciência de Dados.<br>Interessada pelas áreas de pesquisa científica em aprendizado de máquina, inteligência artificial, big data e inteligência computacional.<br>Tenho grande admiração pelas áreas de psicologia e nutrição e adoraria participar de projetos multidisciplinares nessas áreas.<br>Disponível para morar em Porto Alegre/RS, Florianópolis/SC, Balneário Camboriú/SC, Joinville/SC.</p>
     </section>
-    <section>
-        <h2 id="formacao">Formação Acadêmica</h2>
+    <section id="formacao" class="container">
+        <h2>Formação Acadêmica</h2>
         <h3>Análise e Desenvolvimento de Sistemas</h3>
         <p>Uninter / jun/2023 - dez/2025 / 2100h</p>
         <h3>Desenvolvimento de Software BackEnd</h3>
@@ -37,23 +44,25 @@
         <h3>Tecnologia em Hotelaria</h3>
         <p>Senac/RS / fev/2008 - jul/2010 </p>
     </section>
-    <section>
-        <h2 id="tecnologias">Tecnologias e Ferramentas</h2>
-        <li><img src="img/iconpython.png" alt="icone python" /></li>
-        <li><img src="img/iconjs.png" alt="icone javascript" /></li>
-        <li><img src="img/iconnoje.png" alt="icone node.js" /></li>
-        <li><img src="img/iconexpress.png" alt="icone express.js" /></li>
-        <li><img src="img/iconpostgres.png" alt="icone postgresql" /></li>
-        <li><img src="img/iconhtml.png" alt="icone html" /></li>
-        <li><img src="img/iconcss.png" alt="icone css" /></li>
-        <li><img src="img/icongit.png" alt="icone git" /></li>
-        <li><img src="img/icongithub2.png" alt="icone github" /></li>
-        <li><img src="img/iconfigma.png" alt="icone figma" /></li>
-        <li><img src="img/iconjupter.png" alt="icone jupter notebook" /></li>
-        <li><img src="img/iconps.png" alt="icone photoshop" /></li>
-        <li><img src="img/iconai.png" alt="icone ilustrator" /></li>
+    <section id="tecnologias" class="container">
+        <h2>Tecnologias e Ferramentas</h2>
+        <div class="lista-tecnologias">
+            <div class="icone"><img src="img/iconpython.png" alt="icone python" /></div>
+            <div class="icone"><img src="img/iconjs.png" alt="icone javascript" /></div>
+            <div class="icone"><img src="img/iconnoje.png" alt="icone node.js" /></div>
+            <div class="icone"><img src="img/iconexpress.png" alt="icone express.js" /></div>
+            <div class="icone"><img src="img/iconpostgres.png" alt="icone postgresql" /></div>
+            <div class="icone"><img src="img/iconhtml.png" alt="icone html" /></div>
+            <div class="icone"><img src="img/iconcss.png" alt="icone css" /></div>
+            <div class="icone"><img src="img/icongit.png" alt="icone git" /></div>
+            <div class="icone"><img src="img/icongithub2.png" alt="icone github" /></div>
+            <div class="icone"><img src="img/iconfigma.png" alt="icone figma" /></div>
+            <div class="icone"><img src="img/iconjupter.png" alt="icone jupter notebook" /></div>
+            <div class="icone"><img src="img/iconps.png" alt="icone photoshop" /></div>
+            <div class="icone"><img src="img/iconai.png" alt="icone ilustrator" /></div>
+        </div>
     </section>
-    <section>
+    <section class="container">
         <article>
             <h2 id="portfolio">Portfólio</h2>
             <h3>Projeto 1</h3>
@@ -71,7 +80,7 @@
             <a href="link repositorio"></a>
         </article>
     </section>
-    <section>
+    <section class="container">
         <h2 id="portfolio">Portfólio</h2>
         <article>
           <h3>Projeto 1</h3>
@@ -89,7 +98,7 @@
           <a href="link repositorio"></a>
         </article>
     </section>
-    <section>
+    <section class="container">
         <h2 id="contato">Entre em Contato</h2>
         <form action="processar-formulario.php" method="POST">
             <label for="nome">Nome:</label>
@@ -104,10 +113,13 @@
             <button type="submit">Enviar</button>
         </form>
       </section>
-      <footer> <ul>
+      <footer class="container">
+        <p>Desenvolvido por Veronica Veiga Bierhals, Todos os Direitos Reservados &copy</p>
+        <ul >
         <li><a href="url-do-link"><img src="img/iconemail.png" alt="icone email" /></a></li>
         <li><a href="https://github.com/veronicabierhals"><img src="img/icongithub.png" alt="icone github" /></a></li>
         <li><a href="https://www.linkedin.com/in/veronicabierhals/"></a><img src="img/iconlinkedin.png" alt="icone linkedin" /></a></li>
-      </ul></footer>
+      </ul>
+    </footer>
   </body>
 </html>
