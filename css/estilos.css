@@ -1,8 +1,8 @@
 body {
     margin: 0;
-    background-color: #19334B;
+    background-color: #132536;
     font-family: 'Ubuntu Mono', monospace;
-    color: #C0E2EA;
+    color: #D6F6FD;
 }
 
 p {
@@ -187,4 +187,12 @@ footer ul {
     list-style: none;
     display: flex;
     padding-top: 22px;
+    gap: 10px
+}
+
+.imagemblog {
+    display: flex;
+    justify-content: center;
+    padding-top: 220px;
+    padding-bottom: 200px;
 }
