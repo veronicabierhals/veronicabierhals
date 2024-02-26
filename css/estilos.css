@@ -14,8 +14,9 @@ p {
 h2 {
     color: #F2D8C2;
     font-size: 40px;
-    font-weight: bold;
+    font-weight: 600;
     margin-bottom: 40px;
+    font-family: 'Poppins', sans-serif;
 }
 
 h3 {
@@ -47,7 +48,7 @@ nav {
     align-items: center;
     padding-top: 20px;
     font-size: 22px;
-    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
 }
 
 nav li {
