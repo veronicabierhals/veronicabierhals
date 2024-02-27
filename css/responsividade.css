@@ -1,0 +1,121 @@
+/* Estilos para tablets e smartphones */
+@media only screen and (max-width: 768px) {
+
+    /* Estilos de títulos */
+    h2 {
+        font-size: 32px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    /* Ajustes de alinhamento */
+    .alinhamento-dir img {
+        width: 40px;
+    }
+
+    /* Ajustes navegação */
+    nav ul li {
+        margin-bottom: 10px;
+    }
+
+    /* Estilos do cabeçalho e rodapé */
+    header,
+    footer {
+        height: auto;
+        padding: 10px;
+    }
+
+    nav {
+        font-size: 18px;
+    }
+
+    /* Estilos do conteúdo */
+    .container {
+        margin: 0 20px;
+    }
+
+    /* Estilos do formulário de contato */
+    #contato.container button[type="submit"] {
+        width: 100%;
+    }
+
+    /* Ajustes para a navegação */
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* Seção "Sobre Mim" e "Portfolio" */
+    #sobremim.container p,
+    #portfolio.container article p {
+        font-size: 16px;
+    }
+
+    /* Portfolio */
+    #portfolio.container div {
+        flex-direction: column;
+    }
+
+    #portfolio.container article {
+        width: 100%;
+    }
+
+    /* Imagem na seção blog */
+    .imagemblog img {
+        max-width: 80%;
+    }
+
+    /* Tamanho da fonte no rodapé */
+    footer p {
+        font-size: 16px;
+    }
+
+    footer ul {
+        font-size: 14px;
+    }
+}
+
+/* Estilos para smartphones */
+@media only screen and (max-width: 480px) {
+
+    /* Ajustes de alinhamento */
+    .alinhamento-dir img {
+        width: 20px;
+    }
+
+    /* Ajustes navegação */
+    nav ul li {
+        margin-bottom: 8px;
+    }
+
+    /* Estilos de títulos */
+    h2 {
+        font-size: 28px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    /* Seção "Sobre Mim" e "Portfolio" */
+    #sobremim.container p,
+    #portfolio.container article p {
+        font-size: 14px;
+    }
+
+    /* Imagem na seção blog */
+    .imagemblog img {
+        max-width: 60%;
+    }
+
+    /* Tamanho da fonte no rodapé */
+    footer p {
+        font-size: 14px;
+    }
+
+    footer ul {
+        font-size: 12px;
+    }
+}
