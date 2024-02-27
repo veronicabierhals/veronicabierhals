@@ -1,4 +1,16 @@
-/* Estilos para tablets e smartphones */
+/* Estilos para tablets (largura entre 768px e 1253px) */
+@media only screen and (min-width: 768px) and (max-width: 1253px) {
+
+    /* Espaçamento nas laterais */
+    .container {
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+/* Estilos para tablets */
 @media only screen and (max-width: 768px) {
 
     /* Estilos de títulos */
@@ -8,6 +20,14 @@
 
     h3 {
         font-size: 20px;
+    }
+
+    /* Espaçamento nas laterais */
+    .container {
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-right: auto;
+        margin-left: auto;
     }
 
     /* Ajustes de alinhamento */
@@ -29,11 +49,6 @@
 
     nav {
         font-size: 18px;
-    }
-
-    /* Estilos do conteúdo */
-    .container {
-        margin: 0 20px;
     }
 
     /* Estilos do formulário de contato */
@@ -75,10 +90,20 @@
     footer ul {
         font-size: 14px;
     }
+
 }
 
 /* Estilos para smartphones */
 @media only screen and (max-width: 320px) {
+
+    /* Estilos de títulos */
+    h2 {
+        font-size: 28px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
 
     /* Ajustes de alinhamento */
     .alinhamento-dir img {
@@ -88,15 +113,6 @@
     /* Ajustes navegação */
     nav ul li {
         margin-bottom: 8px;
-    }
-
-    /* Estilos de títulos */
-    h2 {
-        font-size: 28px;
-    }
-
-    h3 {
-        font-size: 18px;
     }
 
     /* Seção "Sobre Mim" e "Portfolio" */
