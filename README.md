@@ -1,29 +1,28 @@
 # Olá! Sou Veronica Bierhals 👋
 Desenvolvedora BackEnd | JavaScript | Node.js | Express | PostgreSQL | Python <br/><br/>
 
-🎓 **Cursando** Análise e Desenvolvimento de Sistemas na Uninter.<br/>
+🎓 Sou estudante e monitora do curso de Análise e Desenvolvimento de Sistemas e voluntária no projeto de iniciação científica da Uninter.
 
 Concluí, entre agosto e dezembro de 2023, um curso intensivo de 500 horas em Desenvolvimento de Software Backend com Node.js, estabelecendo uma base sólida para novos desafios.
 
-Meu objetivo este ano é ampliar meu conhecimento em Ciência de Dados, investindo em estudos autodidatas e também, aprimorar meu inglês.
+Este ano estou focando meus estudos em Ciência de Dados.
 
-Planejo participar ativamente de projetos extracurriculares, como monitoria e iniciação científica, durante a faculdade.
 Em 2025 farei Pós-Graduação em Ciência de Dados e Machine Learning, seguida pelo Mestrado em Ciência da Computação na UFSC, programado para 2026 a 2028.
 
-Destaco minha capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorização da colaboração e compartilhamento de conhecimento.
-Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
+Destaco minha capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorização da colaboração e compartilhamento de conhecimento. Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
 
-Designer gráfico em transição de carreira, meu objetivo profissional é integrar projetos relacionados à Backend e Ciência de Dados.
+Meu objetivo profissional é integrar projetos relacionados à Backend e Ciência de Dados.
 
 Interessada pelas áreas de pesquisa científica em aprendizado de máquina, inteligência artificial, big data e inteligência computacional.
 
 Tenho grande admiração pelas áreas de psicologia e nutrição e adoraria participar de projetos multidisciplinares nessas áreas.
 
-Disponível para morar em Porto Alegre/RS, Florianópolis/SC, Balneário Camboriú/SC, Joinville/SC.
+Disponível para morar em Florianópolis/SC, Balneário Camboriú/SC, Joinville/SC.
 
-### Meus contatos <br/>
+## Meus contatos <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/veronicabierhals/)
+[![Meu Site](https://img.shields.io/badge/Meu%20Site-black?style=for-the-badge)](https://veronicabierhals.github.io/veronicabierhals/)
 
 ## Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -37,10 +36,15 @@ Disponível para morar em Porto Alegre/RS, Florianópolis/SC, Balneário Cambori
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-<br/><br/>
-## Softwares
+
+## Ferramentas
 <div style="display: inline_block">
  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
  <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue"/>
- <img align="center" alt="Ilustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-000?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)"/> 
+ <img align="center" alt="Ilustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-000?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)"/>
+ <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+ <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira&logoColor=white"/>
+ <img align="center" alt="Miro" src="https://img.shields.io/badge/Miro-black?style=for-the-badge&logo=miro&logoColor=white"/>
+
+
+
