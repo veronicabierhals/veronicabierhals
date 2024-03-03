@@ -48,7 +48,7 @@ h3 {
 header,
 footer {
     background-color: #453A74;
-    height: 80px;
+    height: 70px;
     width: 100%;
     margin: 0 auto;
 }
@@ -57,7 +57,7 @@ footer {
 nav {
     display: flex;
     align-items: center;
-    padding-top: 20px;
+    padding-top: 16px;
     font-size: 18px;
     font-family: 'Poppins', sans-serif;
 }
@@ -91,7 +91,7 @@ nav a {
 
 /*imagens*/
 .alinhamento-dir img {
-    width: 40px;
+    width: 35px;
     height: auto;
 }
 
@@ -193,7 +193,8 @@ footer {
 
 footer p {
     margin: 0;
-    padding-top: 24px;
+    padding-top: 26px;
+    font-size: 14px;
 }
 
 footer ul {
@@ -207,6 +208,6 @@ footer ul {
 .imagemblog {
     display: flex;
     justify-content: center;
-    padding-top: 220px;
+    padding-top: 240px;
     padding-bottom: 200px;
 }
