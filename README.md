@@ -1,23 +1,15 @@
 # Olá! Sou Veronica Bierhals 👋
 Desenvolvedora BackEnd | JavaScript | Node.js | Express | PostgreSQL | Python <br/><br/>
 
-🎓 Sou estudante e monitora do curso de Análise e Desenvolvimento de Sistemas e voluntária no projeto de iniciação científica da Uninter.
+🎓 Sou estudante e monitora do curso de Análise e Desenvolvimento de Sistemas da Uninter.
 
 Concluí, entre agosto e dezembro de 2023, um curso intensivo de 500 horas em Desenvolvimento de Software Backend com Node.js, estabelecendo uma base sólida para novos desafios.
 
-Este ano estou focando meus estudos em Ciência de Dados.
-
-Em 2025 farei Pós-Graduação em Ciência de Dados e Machine Learning, seguida pelo Mestrado em Ciência da Computação na UFSC, programado para 2026 a 2028.
+Atualmente estou estudando C# e React devido a novas oportunidades profissionais.
 
 Destaco minha capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorização da colaboração e compartilhamento de conhecimento. Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
 
-Meu objetivo profissional é integrar projetos relacionados à Backend e Ciência de Dados.
-
-Interessada pelas áreas de pesquisa científica em aprendizado de máquina, inteligência artificial, big data e inteligência computacional.
-
-Tenho grande admiração pelas áreas de psicologia e nutrição e adoraria participar de projetos multidisciplinares nessas áreas.
-
-Disponível para morar em Florianópolis/SC, Balneário Camboriú/SC, Joinville/SC.
+Disponível para morar em Florianópolis/SC e região, Balneário Camboriú/SC.
 
 ## Meus contatos <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com)
