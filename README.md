@@ -1,15 +1,27 @@
 # Olá! Sou Veronica Bierhals 👋
-Desenvolvedora BackEnd | JavaScript | Node.js | Express | PostgreSQL | Python <br/><br/>
+Desenvolvedora FulStack | JavaScript | Node.js | React | Express | SQL <br/><br/>
 
 🎓 Sou estudante e monitora do curso de Análise e Desenvolvimento de Sistemas da Uninter.
 
-Concluí, entre agosto e dezembro de 2023, um curso intensivo de 500 horas em Desenvolvimento de Software Backend com Node.js, estabelecendo uma base sólida para novos desafios.
+Concluí, entre agosto e dezembro de 2023, um curso intensivo de 500 horas em Desenvolvimento de Software Backend com Node.js.
 
-Atualmente estou estudando C# e React devido a novas oportunidades profissionais.
+Tenho conhecimento em:
+* JavaScript, Node.js, Express, API Rest, Python, HTML 5, CSS 3, Bootstrap;
+* controle e Versionamento de código com Git e GitHub;
+* manutenção de aplicações React;
+* correção de bugs;
+* refatoração de trechos de códigos;
+* bancos de dados: PostgreSQL, MySQL, MSSQL;
+* gerenciamento de pacotes com NPM;
+* Trello, Asana, Jira, Notion, Monday.
 
-Destaco minha capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorização da colaboração e compartilhamento de conhecimento. Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
+Atualmente estou prestando serviços Full Stack para empresas como PJ, corrigindo bugs, implementando melhorias, fazendo manutenção de sistemas e auxiliando no desenvolvimento de novos sistemas.
 
-Disponível para morar em Florianópolis/SC e região, Balneário Camboriú/SC.
+A longo prazo quero estudar desenvolvimento de Games 2D com C# e Unity.
+
+Tenho capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorizo da colaboração e compartilhamento de conhecimento. Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
+
+Disponível para mudança de cidade, estado e até país, dependendo da oportunidade.
 
 ## Meus contatos <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com)
