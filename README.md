@@ -24,7 +24,7 @@ Tenho capacidade de aprendizado rápido, facilidade de trabalho em equipe e valo
 Disponível para mudança de cidade, estado e até país, dependendo da oportunidade.
 
 ## Meus contatos <br/>
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/veronicabierhals/)
 [![Meu Site](https://img.shields.io/badge/Meu%20Site-black?style=for-the-badge)](https://veronicabierhals.github.io/veronicabierhals/)
 
