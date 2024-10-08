@@ -17,7 +17,7 @@ Tenho conhecimento em:
 
 Atualmente estou prestando serviços Full Stack para empresas como PJ, corrigindo bugs, implementando melhorias, fazendo manutenção de sistemas e auxiliando no desenvolvimento de novos sistemas.
 
-A longo prazo quero estudar desenvolvimento de Games 2D com C# e Unity.
+Como hobby, estudo desenvolvimento de jogos com C# e Unity.
 
 Tenho capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorizo da colaboração e compartilhamento de conhecimento. Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
 
