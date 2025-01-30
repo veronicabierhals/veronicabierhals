@@ -1,7 +1,7 @@
 # Olá! Sou Veronica Bierhals 👋
-Desenvolvedora FulStack | JavaScript | Node.js | React | Express | SQL <br/><br/>
+Desenvolvedora de software web Full Stack | JavaScript | Node.js | React.js | Python | SQL | HTML5 | CSS3 | Git | GitHub <br/><br/>
 
-🎓 Sou estudante e monitora do curso de Análise e Desenvolvimento de Sistemas da Uninter.
+🎓 Sou estudante e monitora (pelo 2º ano) do curso de Análise e Desenvolvimento de Sistemas da Uninter.
 
 Concluí, entre agosto e dezembro de 2023, um curso intensivo de 500 horas em Desenvolvimento de Software Backend com Node.js.
 
@@ -17,7 +17,7 @@ Tenho conhecimento em:
 
 Atualmente estou prestando serviços Full Stack para empresas como PJ, corrigindo bugs, implementando melhorias, fazendo manutenção de sistemas e auxiliando no desenvolvimento de novos sistemas.
 
-Como hobby, estudo desenvolvimento de jogos com C# e Unity.
+Além de serviços de análises de dados e construção de dashboards em Power BI.
 
 Tenho capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorizo da colaboração e compartilhamento de conhecimento. Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
 
@@ -26,7 +26,6 @@ Disponível para mudança de cidade, estado e até país, dependendo da oportuni
 ## Meus contatos <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/veronicabierhals/)
-[![Meu Site](https://img.shields.io/badge/Meu%20Site-black?style=for-the-badge)](https://veronicabierhals.github.io/veronicabierhals/)
 
 ## Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
