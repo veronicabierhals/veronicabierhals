@@ -1,27 +1,27 @@
 # Olá! Sou Veronica Bierhals 👋
 Desenvolvedora de software web Full Stack | JavaScript | Node.js | React.js | Python | SQL | HTML5 | CSS3 | Git | GitHub <br/><br/>
 
-🎓 Sou estudante e monitora (pelo 2º ano) do curso de Análise e Desenvolvimento de Sistemas da Uninter.
+Sou graduada em Hotelaria e atuei por 12 anos na área, adquirindo experiência em gestão, atendimento ao cliente e otimização de processos.  
+Minha transição para a tecnologia foi impulsionada pelo interesse em solução de problemas, automação e análise de dados.
 
-Concluí, entre agosto e dezembro de 2023, um curso intensivo de 500 horas em Desenvolvimento de Software Backend com Node.js.
+Atualmente, sou estudante e monitora (pelo segundo ano) do curso de Análise e Desenvolvimento de Sistemas na Uninter.  
+Além da graduação, concluí um curso intensivo de 500 horas em Desenvolvimento de Software Backend com Node.js entre agosto e dezembro de 2023.
 
-Tenho conhecimento em:
-* JavaScript, Node.js, Express, API Rest, Python, HTML 5, CSS 3, Bootstrap;
-* controle e Versionamento de código com Git e GitHub;
-* manutenção de aplicações React;
-* correção de bugs;
-* refatoração de trechos de códigos;
-* bancos de dados: PostgreSQL, MySQL, MSSQL;
-* gerenciamento de pacotes com NPM;
-* Trello, Asana, Jira, Notion, Monday.
+Atuo como desenvolvedora Full Stack (PJ), prestando serviços para empresas na correção de bugs, implementação de melhorias, manutenção de sistemas e desenvolvimento de novas aplicações.
+Também trabalho com análise, limpeza e organização de dados, Big Data e construção de dashboards interativos.
 
-Atualmente estou prestando serviços Full Stack para empresas como PJ, corrigindo bugs, implementando melhorias, fazendo manutenção de sistemas e auxiliando no desenvolvimento de novos sistemas.
+Habilidades Técnicas:  
+✔ Linguagens e Tecnologias: JavaScript, Node.js, React, Python, API Rest, HTML5, CSS3, Bootstrap, Tailwind  
+✔ Testes: Jest, Cypress  
+✔ Versionamento e Controle de Código: Git, GitHub  
+✔ Banco de Dados: PostgreSQL, MySQL, MSSQL  
+✔ Gerenciamento de Pacotes: NPM  
+✔ Metodologias e Ferramentas: Trello, Asana, Jira, Notion, Monday  
 
-Além de serviços de análises de dados e construção de dashboards em Power BI.
+Minha experiência prévia na gestão hoteleira me proporcionou habilidades analíticas, organização, resolução de problemas e trabalho em equipe, que aplico no dia a dia da tecnologia.  
+Sou uma profissional com aprendizado rápido, que valoriza a colaboração, compartilhamento de conhecimento e autonomia.  
 
-Tenho capacidade de aprendizado rápido, facilidade de trabalho em equipe e valorizo da colaboração e compartilhamento de conhecimento. Ao mesmo tempo, prezo por autonomia, mantendo-me organizada e cumprindo prazos.
-
-Disponível para mudança de cidade, estado e até país, dependendo da oportunidade.
+💼 Aberta a novas oportunidades e desafios! Disponível para mudanças nacionais e internacionais, conforme a oportunidade.
 
 ## Meus contatos <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicabierhals1@gmail.com)
